@@ -17,7 +17,7 @@ body {
 
 .steps {
   width: 600px;
-  background-color: #b3d6ca;
+  background-color: #E1F7F5;
   border-radius: 7px;
   padding: 25px 100px;
   margin: 100px auto;
@@ -31,7 +31,7 @@ body {
 .numbers > div {
   height: 40px;
   aspect-ratio: 1;
-  background-color: #e7e7e7;
+  background-color: white;
   border-radius: 50%;
   display: flex;
   align-items: center;
